@@ -1,0 +1,15 @@
+C:\Users\abgia\source\repos\TP1-Anahid\TP1-Anahid\bin\Debug\net8.0\TP1-Anahid.exe
+C:\Users\abgia\source\repos\TP1-Anahid\TP1-Anahid\bin\Debug\net8.0\TP1-Anahid.deps.json
+C:\Users\abgia\source\repos\TP1-Anahid\TP1-Anahid\bin\Debug\net8.0\TP1-Anahid.runtimeconfig.json
+C:\Users\abgia\source\repos\TP1-Anahid\TP1-Anahid\bin\Debug\net8.0\TP1-Anahid.dll
+C:\Users\abgia\source\repos\TP1-Anahid\TP1-Anahid\bin\Debug\net8.0\TP1-Anahid.pdb
+C:\Users\abgia\source\repos\TP1-Anahid\TP1-Anahid\obj\Debug\net8.0\TP1-Anahid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abgia\source\repos\TP1-Anahid\TP1-Anahid\obj\Debug\net8.0\TP1-Anahid.AssemblyInfoInputs.cache
+C:\Users\abgia\source\repos\TP1-Anahid\TP1-Anahid\obj\Debug\net8.0\TP1-Anahid.AssemblyInfo.cs
+C:\Users\abgia\source\repos\TP1-Anahid\TP1-Anahid\obj\Debug\net8.0\TP1-Anahid.csproj.CoreCompileInputs.cache
+C:\Users\abgia\source\repos\TP1-Anahid\TP1-Anahid\obj\Debug\net8.0\TP1-Anahid.dll
+C:\Users\abgia\source\repos\TP1-Anahid\TP1-Anahid\obj\Debug\net8.0\refint\TP1-Anahid.dll
+C:\Users\abgia\source\repos\TP1-Anahid\TP1-Anahid\obj\Debug\net8.0\TP1-Anahid.pdb
+C:\Users\abgia\source\repos\TP1-Anahid\TP1-Anahid\obj\Debug\net8.0\TP1-Anahid.genruntimeconfig.cache
+C:\Users\abgia\source\repos\TP1-Anahid\TP1-Anahid\obj\Debug\net8.0\ref\TP1-Anahid.dll
+C:\Users\abgia\source\repos\TP1-Anahid\TP1-Anahid\obj\Debug\net8.0\TP1-Anahid.sourcelink.json
