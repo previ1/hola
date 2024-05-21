@@ -137,7 +137,7 @@ class TrabajoFinal
 
         Console.WriteLine("\n");
 
-        Console.WriteLine("¡Que tengas buen viaje " + destino + "!");
+        Console.WriteLine("¡Que tengas buen viaje a " + destino + "!");
 
 
         Console.ReadKey();
